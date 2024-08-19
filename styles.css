@@ -25,4 +25,7 @@ article > p:last-child{
 	color:red;
 }
 
+ul > li:last-child , ul > li:first-child{
+	font-size:22px;
+}
 
