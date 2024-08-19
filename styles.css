@@ -33,7 +33,7 @@ ul > li:nth-child(2n+1){
 	background-color:white;
 }
 
-ul > li:last-child(n-3){
+ul > li:nth-last-child(3){
 	background-color:pink;
 }
 
