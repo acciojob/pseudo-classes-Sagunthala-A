@@ -29,5 +29,11 @@ ul > li:last-child , ul > li:first-child{
 	font-size:22px;
 }
 
-ul > li:last-child(
+ul > li:nth-child(2n+1){
+	background-color:white;
+}
+
+ul > li:last-child(n-3){
+	background-color:pink;
+}
 
